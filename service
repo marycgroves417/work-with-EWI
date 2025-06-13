@@ -1,0 +1,48 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Why You Should Hire Us</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+      max-width: 800px;
+      margin: 2rem auto;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #004e7c;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Why You Should Hire Us</h1>
+  <p>We help teams like yours stay compliant, reduce downtime, and clean up the mess no one else wants to deal with.</p>
+  <ul>
+    <li>24/7 emergency spill response</li>
+    <li>Dust system installs & maintenance</li>
+    <li>Industrial cleaning & confined space entry</li>
+    <li>Construction support & demolition</li>
+  </ul>
+  <p>We’ve worked with top names in manufacturing, food processing, and logistics. Fast, thorough, and no B.S.</p>
+  <a href="#" class="cta">Let’s Talk</a>
+</body>
+</html>
